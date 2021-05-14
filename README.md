@@ -1,6 +1,6 @@
 - 👋 Hi, I’m yash gavade aka redwild1066
 - 👀 I’m interested in sports
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning c++ and python
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me ...
 
