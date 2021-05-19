@@ -32,6 +32,15 @@ canvas.title("Weather App")
 f = ("poppins", 15, "bold")
 t = ("poppins", 35, "bold")
 
+
+img = PhotoImage(file="sun.png")
+label = Label(
+    canvas,
+    image=img
+)
+label.place(x=500, y=500)
+
+
 textField = tk.Entry(canvas, justify='center', width=25, font=t)
 textField.pack(pady=25)
 textField.focus()
