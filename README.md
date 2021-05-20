@@ -1,10 +1,5 @@
-- 👋 Hi, I’m yash gavade aka redwild1066
-- 👀 I’m interested in sports
-- 🌱 I’m currently learning c++ and python
-- 💞️ I’m looking to collaborate on .
-- 📫 How to reach me ...
 
-<!---
-redwild1066/redwild1066 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Knowing what the day will bring is one good way to making a perfect plan for each day. 
+Sometimes this is usually a difficult one for all us because nobody really knows for certain what is likely to happen in the nearest minutes.
+Even in the area of the weather, this is paramount . So here comes the Weather .
+
