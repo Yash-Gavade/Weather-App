@@ -33,7 +33,7 @@ f = ("poppins", 15, "bold")
 t = ("poppins", 35, "bold")
 
 
-img = PhotoImage(file="sun.png")
+img = PhotoImage(file="A.png")
 label = Label( canvas,image=img)
 label.place(x=500, y=500)
 
