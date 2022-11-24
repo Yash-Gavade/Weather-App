@@ -76,6 +76,9 @@ Weather , plays a crucial role in our daily life. Hence, it is highly beneficial
 
 
 ### About me:
+
 This project was my first project in engineering . 
+
 It really felt AWESome to do this Project . 
+
 Learned About python in depth .
