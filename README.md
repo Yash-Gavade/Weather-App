@@ -42,29 +42,29 @@ from tkinter import *
 
 ## We have to first make the body of the GUI with the help of tkinter.
 
-app = Tk()
-//add title
-app.title("Weather App")
-  
-//adjust window size
-app.geometry("300x300")
-  
-weather_l = Label(app, text="")
-weather_l.pack()
- 
-app.mainloop()
+                                  app = Tk()
+                                  //add title
+                                  app.title("Weather App")
+
+                                  //adjust window size
+                                  app.geometry("300x300")
+
+                                  weather_l = Label(app, text="")
+                                  weather_l.pack()
+
+                                  app.mainloop()
 
 ## Make a getweather() function to get the weather of a particular location.
-def getweather(city):
-    result = requests.get(url.format(city))
-      
-    if result:
-        json = result.json()
-        city = json['name']
-        final = [city]
-        return final
-    else:
-        print("NO Content Found")
+                                  def getweather(city):
+                                      result = requests.get(url.format(city))
+
+                                      if result:
+                                          json = result.json()
+                                          city = json['name']
+                                          final = [city]
+                                          return final
+                                      else:
+                                          print("NO Content Found")
 
  
 
