@@ -12,7 +12,7 @@
 
 # Weather App
 
-#Introduction:
+### Introduction:
 Weather is one of the most crucial aspects of our life. It dictates the different kinds of activities that we would like to plan throughout the day, week, or month. One of the older methods of reading weather patterns is to look at the sky and predict whether it would stay sunny, rain, or have a humid weather condition.
 
 # Weather App in Python using Tkinter module 
@@ -27,13 +27,13 @@ Requests: It is a library which helps in fetching the data with the help of URL.
 Firstly, we have to use a weather API for fetching the data from the Open Weather Map website by generating an API key, and then we need to create a configuration file to store the key. And finally using that configuration file in the python script.
 
 
-#Steps used to create It : 
+# Steps used to create It : 
 
-##Genterated Api key 
+### Genterated Api key 
 Login in the Open Weather Map
 Go to the API section. Then in the Current Weather Data section click on the Api doc.
 
-##Steps to create the Python script:
+### Steps to create the Python script:
 imported required modules 
 
 import requests
@@ -75,7 +75,7 @@ Weather , plays a crucial role in our daily life. Hence, it is highly beneficial
 
 
 
-#About me:
+### About me:
 This project was my first project in engineering . 
 It really felt AWESome to do this Project . 
 Learned About python in depth .
