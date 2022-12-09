@@ -1,15 +1,3 @@
-
-
-![image](https://user-images.githubusercontent.com/74112721/144545556-f1622854-5ddb-44c2-ae66-602c907b9289.png)
-
-                                                              SOMAIYA VIDYAVIHAR UNIVERSITY         
-                                                    K. J. Somaiya College of Engineering, Mumbai -77
-                                                 (A Constituent College of Somaiya Vidyavihar University)
-                                                 
-                                                 
-![image](https://user-images.githubusercontent.com/74112721/144545198-29fb944e-cc94-4bef-91aa-ff1ffbc8af90.png)
-
-
 # Weather App
 
 ### Introduction:
@@ -67,6 +55,9 @@ from tkinter import *
                                           print("NO Content Found")
 
  
+ Loading Page :
+ ![image](https://user-images.githubusercontent.com/74112721/206704824-9de28c09-37e8-4a75-b4e7-7fe4c3404139.png)
+
 
 # Conclusion:
 
