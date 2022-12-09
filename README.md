@@ -55,7 +55,7 @@ from tkinter import *
                                           print("NO Content Found")
 
  
- ### Loading Page :
+ ### Output :
  ![image](https://user-images.githubusercontent.com/74112721/206704824-9de28c09-37e8-4a75-b4e7-7fe4c3404139.png)
 
 
