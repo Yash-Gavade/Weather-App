@@ -1,11 +1,9 @@
-# Weather App
+# Weather App In Python 
 
 ### Introduction:
 Weather is one of the most crucial aspects of our life. It dictates the different kinds of activities that we would like to plan throughout the day, week, or month. One of the older methods of reading weather patterns is to look at the sky and predict whether it would stay sunny, rain, or have a humid weather condition.
 
-# Weather App in Python using Tkinter module 
-
-# Modules required:
+## Modules required:
 
 Tkinter: It is a built-in python library for making GUI using tkinter toolkit.
 Requests: It is a library which helps in fetching the data with the help of URL.
