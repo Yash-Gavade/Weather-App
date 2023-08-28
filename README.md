@@ -64,12 +64,3 @@ from tkinter import *
 Weather , plays a crucial role in our daily life. Hence, it is highly beneficial to develop a weather application that will help us track this integral element of nature successfully so that we can all plan our schedules accordingly and choose what would be the best course of action to go about in our daily life.
 
 
-
-
-### About me:
-
-This project was my first project in engineering . 
-
-It really felt AWESome to do this Project . 
-
-Learned About python in depth .
