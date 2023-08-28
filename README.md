@@ -1,15 +1,13 @@
 # Weather App In Python 
 
-### Introduction:
+### Introduction
 Weather is one of the most crucial aspects of our life. It dictates the different kinds of activities that we would like to plan throughout the day, week, or month. One of the older methods of reading weather patterns is to look at the sky and predict whether it would stay sunny, rain, or have a humid weather condition.
 
-## Modules required:
-
+# Modules required
 Tkinter: It is a built-in python library for making GUI using tkinter toolkit.
 Requests: It is a library which helps in fetching the data with the help of URL.
 
-# Approach:
-
+# Approach
 Firstly, we have to use a weather API for fetching the data from the Open Weather Map website by generating an API key, and then we need to create a configuration file to store the key. And finally using that configuration file in the python script.
 
 
